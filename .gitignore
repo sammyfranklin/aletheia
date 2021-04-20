@@ -1,2 +1,4 @@
 *.pyc
 *.fea
+*.o
+uploads/

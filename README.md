@@ -1,3 +1,5 @@
+# Fork of Aletheia
+The purpose of this fork is to containerize and expose the ML methods capable of detecting steganographic methods via a Flask server.
 
 ## What is Aletheia?
 
